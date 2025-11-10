@@ -11,3 +11,4 @@
 * Галерея изображений:
   При клике на миниатюры основное изображение меняется.
 ![alt yacht](img/gallery-photo-1.jpg)
+![alt hello](img/fall.jpg)
