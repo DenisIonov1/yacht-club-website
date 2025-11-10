@@ -10,5 +10,4 @@
   Карточки яхт могут отображаться в разных раскладках, что позволяет пользователям выбирать наиболее удобный способ просмотра информации.
 * Галерея изображений:
   При клике на миниатюры основное изображение меняется.
-<img width="445" height="440" alt="our_team_img" src="https://github.com/user-attachments/assets/941d9410-0e3e-4160-ac4f-1b7b0be73af7" />
-<img width="1856" height="4770" alt="screenshotDesktop" src="https://github.com/user-attachments/assets/90908f68-176e-4cc6-b400-eb125619bc85" />
+![alt yacht](img/gallery-photo-1.jpg)
