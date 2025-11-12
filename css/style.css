@@ -28,7 +28,6 @@ h2 {
     margin: 0;
     margin-bottom: 40px;
 }
-
 .services {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -171,6 +170,7 @@ h2 {
 .font-button-serif:active {
     opacity: 0.3;
 } 
+
 /* Шапка */
 .main-header {
     width: 1170px;
@@ -270,6 +270,7 @@ h2 {
     text-decoration: none;
     opacity: 0.3;
 }
+
 /* скрыть статью */
 .article.short .section-kids-description,
 .article.short .try-yourself-part {
@@ -702,7 +703,6 @@ figure {
 }
 
 /* ---------------остальное------------ */
-
 a{
     text-decoration: none;
     color:#163152
@@ -717,73 +717,54 @@ a{
 .page a:hover {
     opacity: 0.5;
 }
-  
 .page a:active {
     opacity: 0.3;
 }
-
-
 .page.serif {
     font-family: "Philosopher", serif;
 }
-  
-  
 .page.dark {
     color: #fdfdff;
     background-color: #1d1f1f;
 }
-  
 .page.dark .font-button-sans-serif {
         color: #fdfdff;
 }
-  
 .page.dark .font-button-serif {
     color: #fdfdff;
 }
-  
 .page.dark .theme-button-light {
     background-image: url("../img/sun-light.svg");
-}
-  
+} 
 .page.dark .logo img {
     filter: brightness(20);
 }
-  
 .page.dark a {
     color: #fdfdff;
-}
-  
+} 
 .page.dark a:hover {
     opacity: 0.5;
 }
-  
 .page.dark a:active {
     opacity: 0.3;
-}
-  
+} 
 .page.dark .profile img {
     filter: brightness(20);
 }
-  
 .page.dark .card-view-button-grid {
     background-image: url("../img/grid-light.svg");
-}
-  
+} 
 .page.dark .card-view-button-list {
     background-image: url("../img/list-light.svg");
 }
-  
 .page.dark .rent-card {
     color: #ffffff;
     background-color: #1d1f1f;
     box-shadow: 0 4px 30px #181a1a;
 }
-
 .page.dark .meta time {
     color: rgba(253, 253, 255, 0.5);
 }
-  
-
 .page.dark .social-item img {
     filter: brightness(20);
 }
