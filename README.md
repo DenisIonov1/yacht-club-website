@@ -11,3 +11,4 @@
 * Галерея изображений:
   При клике на миниатюры основное изображение меняется.
 <img width="1890" height="852" alt="image" src="https://github.com/user-attachments/assets/b207d264-969e-47d9-a77e-f34113980b74" />
+###Посетсть сайт можно по ссылке <https://denisionov1.github.io/yacht-club-website/>
